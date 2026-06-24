@@ -281,10 +281,6 @@ async def list_categories():
 async def submit_contact(payload: ContactLeadCreate):
     lead = ContactLead(**payload.model_dump())
 
-    doc = lead.model_dump()
-    doc["created_at"] = doc["created_at"].isoformat()
-    await db.leads.insert_one(doc)
-
     email_id = await send_lead_email(lead)
 
     return {
