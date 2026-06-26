@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://gagan-engineering-works.vercel.app/</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<url>
+<loc>https://gagan-engineering-website.vercel.app/</loc>
+<lastmod>2026-06-26</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
 
-  <url>
-    <loc>https://gagan-engineering-works.vercel.app/products</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
+<url>
+<loc>https://gagan-engineering-website.vercel.app/products</loc>
+<lastmod>2026-06-26</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+</url>
 
-  <url>
-    <loc>https://gagan-engineering-works.vercel.app/about</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<url>
+<loc>https://gagan-engineering-website.vercel.app/about</loc>
+<lastmod>2026-06-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
 
-  <url>
-    <loc>https://gagan-engineering-works.vercel.app/contact</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<url>
+<loc>https://gagan-engineering-website.vercel.app/contact</loc>
+<lastmod>2026-06-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
 
 </urlset>
