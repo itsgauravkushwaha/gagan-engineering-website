@@ -13,8 +13,7 @@ import uuid
 from datetime import datetime, timezone
 
 from fastapi.staticfiles import StaticFiles
-app = FastAPI(title="Gagan Engineering Works API")
-app.mount("/", StaticFiles(directory="."), name="static")
+
 
 
 
@@ -40,6 +39,14 @@ logger = logging.getLogger(__name__)
 
 app = FastAPI(title="Gagan Engineering Works API")
 api_router = APIRouter(prefix="/api")
+
+ROOT_DIR = Path(__file__).parent
+
+app.mount(
+    "/images",
+    StaticFiles(directory=ROOT_DIR),
+    name="images"
+)
 
 
 # ----------------- Static Catalogue Data -----------------
