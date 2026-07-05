@@ -44,7 +44,7 @@ ROOT_DIR = Path(__file__).parent
 
 app.mount(
     "/images",
-    StaticFiles(directory=ROOT_DIR),
+    StaticFiles(directory=ROOT_DIR / "images"),
     name="images"
 )
 
