@@ -167,7 +167,7 @@ PRODUCTS = [
         "id": "automatic-ctl-machine",
         "name": "AUTOMATIC CTL MACHINE",
         "category": "Cut To Length Line",
-        "image": "/images/automatic-ctl.png",
+        "image": "https://gagan-engineering-website.onrender.com/images/automatic-ctl.png",
         "tagline": "High-speed Automatic Cut-to-Length Machine for precision sheet processing.",
         "description": "The Automatic CTL (Cut-to-Length) Machine is engineered for high-speed and accurate sheet cutting operations. It is designed to process metal coils efficiently through automatic decoiling, precision leveling, accurate length measurement, hydraulic shearing, and smooth material handling. Equipped with a PLC-based control system, touch screen interface, and premium hydraulic components, this machine ensures consistent production quality, reduced material wastage, and minimal operator intervention. It is ideal for manufacturers involved in sheet metal fabrication, roofing sheets, electrical panels, automobile components, and other precision metal processing industries.",
         "specs": {
