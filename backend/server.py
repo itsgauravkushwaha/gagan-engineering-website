@@ -199,6 +199,7 @@ PRODUCTS = [
             "Conveyor Length": "10 Feet",
             "Table": "500 x 3000 mm Plain Table between Leveller and Shearing"
         },
+        "featured": False,
     },
     {
         "id": "corrugated-sheets-making-machine",
